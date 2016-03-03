@@ -1,0 +1,17 @@
+
+.blue {
+  color: blue;
+}
+
+.hulkify {
+  font-size: 3em;
+}
+
+.capture {
+  border: black 1px solid;
+}
+
+.rounded {
+  border: black 1px solid;
+  border-radius: 5px;
+}
